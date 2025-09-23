@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ]
+  ],
+  "legacy_uid": "87eefa6f-0f9b-4a69-acff-e5098aeaf31d",
+  "instructors": {
+    "content": [
+      "caffb38c-c7a6-a45a-fc44-f866f76ec0ab"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0830d39a-e090-4e78-66a8-cb2047c29892",
+    "website": "11-489-the-growth-and-spatial-structure-of-cities-fall-2005"
+  },
+  "course_title": "The Growth and Spatial Structure of Cities",
+  "course_description": "This course examines the economic, political, social, and spatial dynamics of urban growth and decline in cities and their key component areas (downtown, suburbs, etc.). Topics include impacts of industrialization, technology, politics, and social practices on cities. Students will examine the role of public and private sector activities, ranging from zoning and subsidies to infrastructure development and real estate investment, in affecting urban growth and decline. Readings are both theoretical and empirical, with considerable thought paid to comparative and historical differences.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.489",
+  "course_image_thumbnail": {
+    "content": "3746bb33-751e-3725-85a3-7f2ff7b866fb",
+    "website": "11-489-the-growth-and-spatial-structure-of-cities-fall-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "0402db56-2e70-47c2-9a3c-6bbd0b5cea71",
+  "site_short_id": "11.489-fall-2005",
+  "site_url_path": "courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005",
+  "title": "Course Metadata"
+}
