@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the student responsiblities and
   roles in the assignments and a selection of exemplary student work as well.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

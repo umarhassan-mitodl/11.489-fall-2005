@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the course schedule with the lecture topics covered
   in the lecture sessions and the key dates for the presentations and other papers.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
