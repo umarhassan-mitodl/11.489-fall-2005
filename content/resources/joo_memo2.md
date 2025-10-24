@@ -7,8 +7,6 @@ description: This resource explains how to organize and manage industrial activi
 file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/2de68ff0fe0cbcd1ad58747425f2fb59_joo_memo2.pdf
 file_size: 80933
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

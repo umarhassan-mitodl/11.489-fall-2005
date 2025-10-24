@@ -5,8 +5,6 @@ description: This resource explains the Economic Structures and Agency in the "F
 file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/f1db2650d887a7073c0f0ccd51e3d2cc_klingler_fin_pap.pdf
 file_size: 165594
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

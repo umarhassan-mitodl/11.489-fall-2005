@@ -6,8 +6,6 @@ description: This resource explains the different meaning of urban growth and pr
 file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/a739b07e35d1343d08ab08f21d2718c7_joo_memo1.pdf
 file_size: 124026
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: This resource presents the picture of urban history in terms of the
 file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/9e3b1939800961676a5106ad2316aa08_icampbell_memo2.pdf
 file_size: 109503
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
