@@ -3,8 +3,6 @@ content_type: page
 description: This section provides session wise complete readings information to be
   covered for every lecture topic.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
